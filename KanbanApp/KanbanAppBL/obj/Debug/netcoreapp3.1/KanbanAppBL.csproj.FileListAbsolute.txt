@@ -1,0 +1,12 @@
+C:\Users\admin\source\repos\KanbanApp\KanbanAppBL\bin\Debug\netcoreapp3.1\KanbanAppBL.deps.json
+C:\Users\admin\source\repos\KanbanApp\KanbanAppBL\bin\Debug\netcoreapp3.1\KanbanAppBL.dll
+C:\Users\admin\source\repos\KanbanApp\KanbanAppBL\bin\Debug\netcoreapp3.1\KanbanAppBL.pdb
+C:\Users\admin\source\repos\KanbanApp\KanbanAppBL\bin\Debug\netcoreapp3.1\KanbanAppDL.dll
+C:\Users\admin\source\repos\KanbanApp\KanbanAppBL\bin\Debug\netcoreapp3.1\KanbanAppDL.pdb
+C:\Users\admin\source\repos\KanbanApp\KanbanAppBL\obj\Debug\netcoreapp3.1\KanbanAppBL.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\KanbanApp\KanbanAppBL\obj\Debug\netcoreapp3.1\KanbanAppBL.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\KanbanApp\KanbanAppBL\obj\Debug\netcoreapp3.1\KanbanAppBL.AssemblyInfo.cs
+C:\Users\admin\source\repos\KanbanApp\KanbanAppBL\obj\Debug\netcoreapp3.1\KanbanAppBL.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\KanbanApp\KanbanAppBL\obj\Debug\netcoreapp3.1\KanbanAppBL.csproj.CopyComplete
+C:\Users\admin\source\repos\KanbanApp\KanbanAppBL\obj\Debug\netcoreapp3.1\KanbanAppBL.dll
+C:\Users\admin\source\repos\KanbanApp\KanbanAppBL\obj\Debug\netcoreapp3.1\KanbanAppBL.pdb
